@@ -1,0 +1,127 @@
+{
+  "subject": "economics",
+  "title": "Economics",
+  "description": "Micro & Macro Economics",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the basic economic problem?",
+      "options": [
+        "Inflation",
+        "Unemployment",
+        "Scarcity",
+        "Poverty"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Scarcity is the basic economic problem - unlimited wants but limited resources."
+    },
+    {
+      "id": 2,
+      "question": "What does GDP stand for?",
+      "options": [
+        "Gross Domestic Product",
+        "General Domestic Product",
+        "Global Domestic Product",
+        "Great Domestic Product"
+      ],
+      "correctAnswer": 0,
+      "explanation": "GDP stands for Gross Domestic Product, measuring the total economic output of a country."
+    },
+    {
+      "id": 3,
+      "question": "In which economic system are prices determined by supply and demand?",
+      "options": [
+        "Command economy",
+        "Traditional economy",
+        "Market economy",
+        "Mixed economy"
+      ],
+      "correctAnswer": 2,
+      "explanation": "In a market economy, prices are determined by the forces of supply and demand."
+    },
+    {
+      "id": 4,
+      "question": "What is inflation?",
+      "options": [
+        "Decrease in prices",
+        "Increase in unemployment",
+        "General increase in prices",
+        "Decrease in production"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Inflation is the general increase in prices of goods and services over time."
+    },
+    {
+      "id": 5,
+      "question": "What is the main currency of Bangladesh?",
+      "options": [
+        "Rupee",
+        "Taka",
+        "Dollar",
+        "Pound"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Bangladeshi Taka (BDT) is the official currency of Bangladesh."
+    },
+    {
+      "id": 6,
+      "question": "What does the law of demand state?",
+      "options": [
+        "Price and quantity demanded move in the same direction",
+        "Price and quantity demanded move in opposite directions",
+        "Price has no effect on demand",
+        "Demand is always constant"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The law of demand states that as price increases, quantity demanded decreases, and vice versa."
+    },
+    {
+      "id": 7,
+      "question": "Which sector contributes most to Bangladesh's GDP?",
+      "options": [
+        "Agriculture",
+        "Industry",
+        "Services",
+        "Mining"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The services sector is the largest contributor to Bangladesh's GDP."
+    },
+    {
+      "id": 8,
+      "question": "What is opportunity cost?",
+      "options": [
+        "The cost of raw materials",
+        "The cost of labor",
+        "The value of the next best alternative foregone",
+        "The total cost of production"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Opportunity cost is the value of the next best alternative that must be given up when making a choice."
+    },
+    {
+      "id": 9,
+      "question": "What is monopoly?",
+      "options": [
+        "Many sellers, one buyer",
+        "One seller, many buyers",
+        "Many sellers, many buyers",
+        "One seller, one buyer"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A monopoly exists when there is only one seller of a product with no close substitutes."
+    },
+    {
+      "id": 10,
+      "question": "What is fiscal policy?",
+      "options": [
+        "Policy related to money supply",
+        "Policy related to government spending and taxation",
+        "Policy related to international trade",
+        "Policy related to employment"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Fiscal policy involves government decisions about spending and taxation to influence the economy."
+    }
+  ]
+}

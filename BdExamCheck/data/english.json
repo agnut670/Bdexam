@@ -1,0 +1,127 @@
+{
+  "subject": "english",
+  "title": "English",
+  "description": "Grammar, Literature & Comprehension",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Who is the author of 'Romeo and Juliet'?",
+      "options": [
+        "Christopher Marlowe",
+        "William Shakespeare",
+        "Ben Jonson",
+        "John Webster"
+      ],
+      "correctAnswer": 1,
+      "explanation": "William Shakespeare wrote the famous tragedy 'Romeo and Juliet' around 1595."
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is a collective noun?",
+      "options": [
+        "Books",
+        "Students",
+        "Team",
+        "Teachers"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Team is a collective noun as it refers to a group of people as a single unit."
+    },
+    {
+      "id": 3,
+      "question": "What is the past participle of 'write'?",
+      "options": [
+        "Wrote",
+        "Writing",
+        "Written",
+        "Writes"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The past participle of 'write' is 'written' (write-wrote-written)."
+    },
+    {
+      "id": 4,
+      "question": "Which sentence is grammatically correct?",
+      "options": [
+        "He don't like coffee.",
+        "He doesn't like coffee.",
+        "He didn't likes coffee.",
+        "He not like coffee."
+      ],
+      "correctAnswer": 1,
+      "explanation": "In third person singular, we use 'doesn't' (does not) with the base form of the verb."
+    },
+    {
+      "id": 5,
+      "question": "What type of poem has 14 lines?",
+      "options": [
+        "Haiku",
+        "Limerick",
+        "Sonnet",
+        "Ballad"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A sonnet is a 14-line poem, typically written in iambic pentameter."
+    },
+    {
+      "id": 6,
+      "question": "In which novel would you find the character 'Atticus Finch'?",
+      "options": [
+        "Pride and Prejudice",
+        "To Kill a Mockingbird",
+        "The Great Gatsby",
+        "Lord of the Flies"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Atticus Finch is a main character in Harper Lee's 'To Kill a Mockingbird'."
+    },
+    {
+      "id": 7,
+      "question": "What is the superlative form of 'good'?",
+      "options": [
+        "Gooder",
+        "Goodest",
+        "Better",
+        "Best"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The comparative form of 'good' is 'better' and the superlative is 'best'."
+    },
+    {
+      "id": 8,
+      "question": "Which of these is an example of alliteration?",
+      "options": [
+        "The sun shines brightly",
+        "Peter Piper picked peppers",
+        "Time flies like an arrow",
+        "Beautiful birds sing songs"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Alliteration is the repetition of initial consonant sounds, as in 'Peter Piper picked peppers'."
+    },
+    {
+      "id": 9,
+      "question": "What is the plural form of 'child'?",
+      "options": [
+        "Childs",
+        "Childes",
+        "Children",
+        "Childrens"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Children' is the irregular plural form of 'child'."
+    },
+    {
+      "id": 10,
+      "question": "Which punctuation mark is used to show possession?",
+      "options": [
+        "Comma",
+        "Apostrophe",
+        "Semicolon",
+        "Colon"
+      ],
+      "correctAnswer": 1,
+      "explanation": "An apostrophe (') is used to show possession, as in 'John's book'."
+    }
+  ]
+}

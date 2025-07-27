@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ICT MCQ Quiz - Bangladesh MCQ Checker</title>
+    <link rel="stylesheet" href="../css/styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body class="quiz-page ict-theme">
+    <header class="quiz-header">
+        <div class="container">
+            <div class="header-content">
+                <a href="../index.html" class="back-btn">
+                    <i class="fas fa-arrow-left"></i> Back to Subjects
+                </a>
+                <h1 class="subject-title">
+                    <i class="fas fa-laptop-code"></i>
+                    ICT Quiz
+                </h1>
+                <div class="timer-display">
+                    <i class="fas fa-clock"></i>
+                    <span id="timer">15:00</span>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main class="quiz-content">
+        <div class="container">
+            <div class="quiz-controls">
+                <div class="progress-section">
+                    <div class="progress-info">
+                        <span>Question <span id="current-question">1</span> of <span id="total-questions">10</span></span>
+                        <span class="score">Score: <span id="current-score">0</span></span>
+                    </div>
+                    <div class="progress-bar">
+                        <div class="progress-fill" id="progress-fill"></div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="quiz-container">
+                <div id="loading" class="loading">
+                    <i class="fas fa-spinner fa-spin"></i>
+                    <p>Loading questions...</p>
+                </div>
+
+                <div id="quiz-content" class="quiz-content-area" style="display: none;">
+                    <div class="question-card">
+                        <h2 id="question-text" class="question-text"></h2>
+                        <div id="options-container" class="options-container"></div>
+                    </div>
+
+                    <div class="quiz-navigation">
+                        <button id="prev-btn" class="nav-btn prev-btn" disabled>
+                            <i class="fas fa-chevron-left"></i> Previous
+                        </button>
+                        <button id="next-btn" class="nav-btn next-btn">
+                            Next <i class="fas fa-chevron-right"></i>
+                        </button>
+                        <button id="submit-btn" class="nav-btn submit-btn" style="display: none;">
+                            Submit Quiz <i class="fas fa-check"></i>
+                        </button>
+                    </div>
+                </div>
+
+                <div id="results-container" class="results-container" style="display: none;">
+                    <div class="results-card">
+                        <h2><i class="fas fa-trophy"></i> Quiz Results</h2>
+                        <div class="score-display">
+                            <div class="final-score">
+                                <span id="final-score">0</span>/<span id="total-score">10</span>
+                            </div>
+                            <div class="percentage">
+                                <span id="percentage">0%</span>
+                            </div>
+                        </div>
+                        <div class="performance-stats">
+                            <div class="stat">
+                                <i class="fas fa-check-circle correct"></i>
+                                <span>Correct: <span id="correct-count">0</span></span>
+                            </div>
+                            <div class="stat">
+                                <i class="fas fa-times-circle incorrect"></i>
+                                <span>Incorrect: <span id="incorrect-count">0</span></span>
+                            </div>
+                        </div>
+                        <div class="results-actions">
+                            <button id="review-answers-btn" class="btn btn-primary">
+                                <i class="fas fa-clipboard-check"></i> Review Answers
+                            </button>
+                            <button id="restart-btn" class="btn btn-ict">
+                                <i class="fas fa-redo"></i> Retake Quiz
+                            </button>
+                            <a href="../index.html" class="btn btn-secondary">
+                                <i class="fas fa-home"></i> Back to Home
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <script src="../js/timer.js"></script>
+    <script src="../js/quiz.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            initializeQuiz('ict');
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,127 @@
+{
+  "subject": "chemistry",
+  "title": "Chemistry",
+  "description": "Organic, Inorganic & Physical",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the chemical symbol for Gold?",
+      "options": [
+        "Go",
+        "Gd",
+        "Au",
+        "Ag"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The chemical symbol for Gold is Au, derived from the Latin word 'aurum'."
+    },
+    {
+      "id": 2,
+      "question": "How many electrons does a neutral carbon atom have?",
+      "options": [
+        "4",
+        "6",
+        "8",
+        "12"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A neutral carbon atom has 6 electrons, equal to its atomic number."
+    },
+    {
+      "id": 3,
+      "question": "What is the pH of pure water at 25°C?",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pure water has a pH of 7 at 25°C, making it neutral (neither acidic nor basic)."
+    },
+    {
+      "id": 4,
+      "question": "Which gas is most abundant in Earth's atmosphere?",
+      "options": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Nitrogen",
+        "Argon"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Nitrogen makes up approximately 78% of Earth's atmosphere."
+    },
+    {
+      "id": 5,
+      "question": "What is the molecular formula of methane?",
+      "options": [
+        "CH₃",
+        "CH₄",
+        "C₂H₄",
+        "C₂H₆"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Methane has the molecular formula CH₄, consisting of one carbon and four hydrogen atoms."
+    },
+    {
+      "id": 6,
+      "question": "Which element has the highest electronegativity?",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Fluorine",
+        "Chlorine"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Fluorine has the highest electronegativity value of 4.0 on the Pauling scale."
+    },
+    {
+      "id": 7,
+      "question": "What type of bond is formed between sodium and chlorine in NaCl?",
+      "options": [
+        "Covalent bond",
+        "Ionic bond",
+        "Metallic bond",
+        "Hydrogen bond"
+      ],
+      "correctAnswer": 1,
+      "explanation": "NaCl is formed by an ionic bond where sodium transfers its electron to chlorine."
+    },
+    {
+      "id": 8,
+      "question": "What is the atomic number of Hydrogen?",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Hydrogen has an atomic number of 1, meaning it has one proton in its nucleus."
+    },
+    {
+      "id": 9,
+      "question": "Which of these is a noble gas?",
+      "options": [
+        "Nitrogen",
+        "Oxygen",
+        "Helium",
+        "Hydrogen"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Helium is a noble gas, characterized by its complete outer electron shell and chemical inertness."
+    },
+    {
+      "id": 10,
+      "question": "What is the process of a solid changing directly to gas called?",
+      "options": [
+        "Melting",
+        "Evaporation",
+        "Sublimation",
+        "Condensation"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Sublimation is the phase transition where a solid changes directly to gas without becoming liquid."
+    }
+  ]
+}

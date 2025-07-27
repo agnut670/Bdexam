@@ -1,0 +1,127 @@
+{
+  "subject": "ict",
+  "title": "ICT",
+  "description": "Information & Communication Technology",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What does CPU stand for?",
+      "options": [
+        "Central Processing Unit",
+        "Computer Processing Unit",
+        "Central Program Unit",
+        "Computer Program Unit"
+      ],
+      "correctAnswer": 0,
+      "explanation": "CPU stands for Central Processing Unit, often called the 'brain' of the computer."
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is an input device?",
+      "options": [
+        "Monitor",
+        "Printer",
+        "Keyboard",
+        "Speaker"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A keyboard is an input device used to enter data and commands into a computer."
+    },
+    {
+      "id": 3,
+      "question": "What does RAM stand for?",
+      "options": [
+        "Read Access Memory",
+        "Random Access Memory",
+        "Rapid Access Memory",
+        "Real Access Memory"
+      ],
+      "correctAnswer": 1,
+      "explanation": "RAM stands for Random Access Memory, which stores data temporarily while the computer is running."
+    },
+    {
+      "id": 4,
+      "question": "Which protocol is used for sending emails?",
+      "options": [
+        "HTTP",
+        "FTP",
+        "SMTP",
+        "TCP"
+      ],
+      "correctAnswer": 2,
+      "explanation": "SMTP (Simple Mail Transfer Protocol) is used for sending emails across networks."
+    },
+    {
+      "id": 5,
+      "question": "What does WWW stand for?",
+      "options": [
+        "World Wide Web",
+        "World Wide Work",
+        "World Wide Window",
+        "World Wide Wire"
+      ],
+      "correctAnswer": 0,
+      "explanation": "WWW stands for World Wide Web, a system of interlinked hypertext documents accessed via the Internet."
+    },
+    {
+      "id": 6,
+      "question": "Which of these is a programming language?",
+      "options": [
+        "HTML",
+        "HTTP",
+        "Python",
+        "TCP/IP"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Python is a high-level programming language used for various applications including web development and data science."
+    },
+    {
+      "id": 7,
+      "question": "What is the binary equivalent of decimal 5?",
+      "options": [
+        "101",
+        "110",
+        "111",
+        "100"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The binary representation of decimal 5 is 101 (1×4 + 0×2 + 1×1 = 5)."
+    },
+    {
+      "id": 8,
+      "question": "Which storage device has the fastest access time?",
+      "options": [
+        "Hard Disk Drive (HDD)",
+        "Solid State Drive (SSD)",
+        "CD-ROM",
+        "Floppy Disk"
+      ],
+      "correctAnswer": 1,
+      "explanation": "SSDs have much faster access times than HDDs because they have no moving parts."
+    },
+    {
+      "id": 9,
+      "question": "What does URL stand for?",
+      "options": [
+        "Universal Resource Locator",
+        "Uniform Resource Locator",
+        "Universal Resource Link",
+        "Uniform Resource Link"
+      ],
+      "correctAnswer": 1,
+      "explanation": "URL stands for Uniform Resource Locator, which specifies the address of a resource on the Internet."
+    },
+    {
+      "id": 10,
+      "question": "Which of the following is a database management system?",
+      "options": [
+        "Microsoft Word",
+        "Adobe Photoshop",
+        "MySQL",
+        "Mozilla Firefox"
+      ],
+      "correctAnswer": 2,
+      "explanation": "MySQL is a popular open-source relational database management system."
+    }
+  ]
+}

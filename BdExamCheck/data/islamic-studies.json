@@ -1,0 +1,127 @@
+{
+  "subject": "islamic-studies",
+  "title": "Islamic Studies",
+  "description": "Quran, Hadith & Islamic History",
+  "questions": [
+    {
+      "id": 1,
+      "question": "How many chapters (Surahs) are there in the Holy Quran?",
+      "options": [
+        "114",
+        "115",
+        "116",
+        "117"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Holy Quran contains 114 chapters (Surahs) of varying lengths."
+    },
+    {
+      "id": 2,
+      "question": "What is the first revelation that came to Prophet Muhammad (PBUH)?",
+      "options": [
+        "Surah Al-Fatiha",
+        "Surah Al-Alaq",
+        "Surah Al-Ikhlas",
+        "Surah An-Nas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The first revelation was the beginning of Surah Al-Alaq, starting with 'Iqra' (Read)."
+    },
+    {
+      "id": 3,
+      "question": "How many times should Muslims pray daily?",
+      "options": [
+        "3 times",
+        "4 times",
+        "5 times",
+        "6 times"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Muslims are required to perform Salah (prayer) five times daily: Fajr, Dhuhr, Asr, Maghrib, and Isha."
+    },
+    {
+      "id": 4,
+      "question": "What is the Islamic pilgrimage to Mecca called?",
+      "options": [
+        "Umrah",
+        "Hajj",
+        "Ziyarah",
+        "Tawaf"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Hajj is the annual Islamic pilgrimage to Mecca, one of the Five Pillars of Islam."
+    },
+    {
+      "id": 5,
+      "question": "In which month do Muslims observe fasting?",
+      "options": [
+        "Shaban",
+        "Ramadan",
+        "Shawwal",
+        "Muharram"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Muslims observe fasting during the month of Ramadan, the ninth month of the Islamic calendar."
+    },
+    {
+      "id": 6,
+      "question": "What is Zakat?",
+      "options": [
+        "Prayer",
+        "Fasting",
+        "Charity",
+        "Pilgrimage"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Zakat is the obligatory charity that Muslims must give to help the poor and needy."
+    },
+    {
+      "id": 7,
+      "question": "Who was the first Caliph after Prophet Muhammad (PBUH)?",
+      "options": [
+        "Ali ibn Abi Talib",
+        "Umar ibn al-Khattab",
+        "Abu Bakr",
+        "Uthman ibn Affan"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Abu Bakr was the first Caliph (successor) after Prophet Muhammad (PBUH)."
+    },
+    {
+      "id": 8,
+      "question": "What is the Islamic declaration of faith called?",
+      "options": [
+        "Shahada",
+        "Salah",
+        "Sawm",
+        "Hajj"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Shahada is the Islamic declaration of faith: 'There is no god but Allah, and Muhammad is His messenger.'"
+    },
+    {
+      "id": 9,
+      "question": "Which city is considered the holiest in Islam?",
+      "options": [
+        "Medina",
+        "Jerusalem",
+        "Mecca",
+        "Baghdad"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Mecca (Makkah) is the holiest city in Islam, birthplace of Prophet Muhammad and location of the Kaaba."
+    },
+    {
+      "id": 10,
+      "question": "What is the Islamic New Year called?",
+      "options": [
+        "Eid al-Fitr",
+        "Eid al-Adha",
+        "Muharram",
+        "Mawlid"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Islamic New Year begins with the month of Muharram, the first month of the Islamic calendar."
+    }
+  ]
+}

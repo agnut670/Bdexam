@@ -1,0 +1,127 @@
+{
+  "subject": "mathematics",
+  "title": "Mathematics",
+  "description": "Algebra, Geometry & Calculus",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the value of π (pi) approximately?",
+      "options": [
+        "3.14",
+        "3.141",
+        "3.1416",
+        "3.14159"
+      ],
+      "correctAnswer": 3,
+      "explanation": "π (pi) is approximately 3.14159, representing the ratio of a circle's circumference to its diameter."
+    },
+    {
+      "id": 2,
+      "question": "If x + 5 = 12, what is the value of x?",
+      "options": [
+        "7",
+        "8",
+        "6",
+        "9"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Solving x + 5 = 12: x = 12 - 5 = 7"
+    },
+    {
+      "id": 3,
+      "question": "What is the area of a circle with radius 3 units?",
+      "options": [
+        "6π square units",
+        "9π square units",
+        "12π square units",
+        "18π square units"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Area of circle = πr² = π × 3² = 9π square units"
+    },
+    {
+      "id": 4,
+      "question": "What is the square root of 144?",
+      "options": [
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "correctAnswer": 1,
+      "explanation": "√144 = 12, because 12 × 12 = 144"
+    },
+    {
+      "id": 5,
+      "question": "In a right triangle, if two sides are 3 and 4 units, what is the hypotenuse?",
+      "options": [
+        "5 units",
+        "6 units",
+        "7 units",
+        "8 units"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Using Pythagorean theorem: c² = a² + b² = 3² + 4² = 9 + 16 = 25, so c = 5"
+    },
+    {
+      "id": 6,
+      "question": "What is 15% of 200?",
+      "options": [
+        "25",
+        "30",
+        "35",
+        "40"
+      ],
+      "correctAnswer": 1,
+      "explanation": "15% of 200 = (15/100) × 200 = 0.15 × 200 = 30"
+    },
+    {
+      "id": 7,
+      "question": "What is the derivative of x²?",
+      "options": [
+        "x",
+        "2x",
+        "x²",
+        "2x²"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The derivative of x² is 2x using the power rule: d/dx(xⁿ) = nxⁿ⁻¹"
+    },
+    {
+      "id": 8,
+      "question": "What is the sum of interior angles of a triangle?",
+      "options": [
+        "90°",
+        "180°",
+        "270°",
+        "360°"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The sum of interior angles of any triangle is always 180°."
+    },
+    {
+      "id": 9,
+      "question": "If log₁₀(100) = x, what is the value of x?",
+      "options": [
+        "1",
+        "2",
+        "10",
+        "100"
+      ],
+      "correctAnswer": 1,
+      "explanation": "log₁₀(100) = 2 because 10² = 100"
+    },
+    {
+      "id": 10,
+      "question": "What is the volume of a cube with side length 4 units?",
+      "options": [
+        "16 cubic units",
+        "32 cubic units",
+        "48 cubic units",
+        "64 cubic units"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Volume of cube = side³ = 4³ = 64 cubic units"
+    }
+  ]
+}

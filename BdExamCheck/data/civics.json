@@ -1,0 +1,127 @@
+{
+  "subject": "civics",
+  "title": "Civics",
+  "description": "Government, Law & Constitution",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What type of government does Bangladesh have?",
+      "options": [
+        "Presidential system",
+        "Parliamentary system",
+        "Federal system",
+        "Military system"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bangladesh follows a parliamentary system of government with a Prime Minister as head of government."
+    },
+    {
+      "id": 2,
+      "question": "How many articles are there in the Constitution of Bangladesh?",
+      "options": [
+        "151",
+        "152",
+        "153",
+        "154"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Constitution of Bangladesh contains 153 articles divided into 11 parts."
+    },
+    {
+      "id": 3,
+      "question": "What is the minimum age to vote in Bangladesh?",
+      "options": [
+        "16 years",
+        "17 years",
+        "18 years",
+        "21 years"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The minimum voting age in Bangladesh is 18 years."
+    },
+    {
+      "id": 4,
+      "question": "How many divisions are there in Bangladesh?",
+      "options": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bangladesh is divided into 8 administrative divisions."
+    },
+    {
+      "id": 5,
+      "question": "What does 'democracy' mean?",
+      "options": [
+        "Rule by the military",
+        "Rule by the wealthy",
+        "Rule by the people",
+        "Rule by one person"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Democracy means 'rule by the people' where citizens participate in decision-making."
+    },
+    {
+      "id": 6,
+      "question": "Which is the highest court in Bangladesh?",
+      "options": [
+        "District Court",
+        "High Court",
+        "Supreme Court",
+        "Administrative Court"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Supreme Court of Bangladesh is the highest court in the country's judicial system."
+    },
+    {
+      "id": 7,
+      "question": "What are the fundamental rights guaranteed by the Constitution?",
+      "options": [
+        "Political rights only",
+        "Economic rights only",
+        "Civil and political rights",
+        "Social rights only"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Constitution guarantees fundamental civil and political rights to all citizens."
+    },
+    {
+      "id": 8,
+      "question": "How often are general elections held in Bangladesh?",
+      "options": [
+        "Every 3 years",
+        "Every 4 years",
+        "Every 5 years",
+        "Every 6 years"
+      ],
+      "correctAnswer": 2,
+      "explanation": "General elections in Bangladesh are held every 5 years to elect members of Parliament."
+    },
+    {
+      "id": 9,
+      "question": "What is the role of the Election Commission?",
+      "options": [
+        "Making laws",
+        "Conducting elections",
+        "Implementing policies",
+        "Judging cases"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Election Commission is responsible for conducting free and fair elections."
+    },
+    {
+      "id": 10,
+      "question": "Which principle ensures that no one is above the law?",
+      "options": [
+        "Democracy",
+        "Rule of law",
+        "Federalism",
+        "Separation of powers"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The rule of law principle ensures that all individuals and institutions are subject to and accountable to law."
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "subject": "physics",
+  "title": "Physics",
+  "description": "Mechanics, Thermodynamics & Waves",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the SI unit of force?",
+      "options": [
+        "Joule",
+        "Watt",
+        "Newton",
+        "Pascal"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The SI unit of force is Newton (N), named after Sir Isaac Newton."
+    },
+    {
+      "id": 2,
+      "question": "What is the acceleration due to gravity on Earth?",
+      "options": [
+        "9.8 m/s²",
+        "10 m/s²",
+        "9.6 m/s²",
+        "8.9 m/s²"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The standard acceleration due to gravity on Earth is approximately 9.8 m/s²."
+    },
+    {
+      "id": 3,
+      "question": "According to Newton's first law, an object at rest will:",
+      "options": [
+        "Always move forward",
+        "Stay at rest unless acted upon by a force",
+        "Accelerate automatically",
+        "Move in a circular path"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Newton's first law states that an object at rest stays at rest unless acted upon by an external force."
+    },
+    {
+      "id": 4,
+      "question": "What is the speed of light in vacuum?",
+      "options": [
+        "3 × 10⁸ m/s",
+        "3 × 10⁶ m/s",
+        "3 × 10⁹ m/s",
+        "3 × 10⁷ m/s"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The speed of light in vacuum is approximately 3 × 10⁸ meters per second."
+    },
+    {
+      "id": 5,
+      "question": "What type of energy does a moving object possess?",
+      "options": [
+        "Potential energy",
+        "Kinetic energy",
+        "Chemical energy",
+        "Nuclear energy"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A moving object possesses kinetic energy, which depends on its mass and velocity."
+    },
+    {
+      "id": 6,
+      "question": "What is the formula for calculating work done?",
+      "options": [
+        "W = F × d",
+        "W = m × a",
+        "W = P × V",
+        "W = E × t"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Work done (W) equals force (F) multiplied by displacement (d) in the direction of force."
+    },
+    {
+      "id": 7,
+      "question": "Which law states that energy cannot be created or destroyed?",
+      "options": [
+        "Newton's Law",
+        "Ohm's Law",
+        "Conservation of Energy",
+        "Hooke's Law"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Law of Conservation of Energy states that energy cannot be created or destroyed, only transformed."
+    },
+    {
+      "id": 8,
+      "question": "What is the SI unit of electric current?",
+      "options": [
+        "Volt",
+        "Ampere",
+        "Ohm",
+        "Coulomb"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The SI unit of electric current is the Ampere (A), named after André-Marie Ampère."
+    },
+    {
+      "id": 9,
+      "question": "What happens to the resistance of a conductor when its temperature increases?",
+      "options": [
+        "It decreases",
+        "It increases",
+        "It remains constant",
+        "It becomes zero"
+      ],
+      "correctAnswer": 1,
+      "explanation": "For most conductors, resistance increases with temperature due to increased atomic vibrations."
+    },
+    {
+      "id": 10,
+      "question": "What is the frequency of a wave if its wavelength is 2m and speed is 10 m/s?",
+      "options": [
+        "5 Hz",
+        "20 Hz",
+        "12 Hz",
+        "8 Hz"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Frequency = Speed/Wavelength = 10 m/s ÷ 2 m = 5 Hz"
+    }
+  ]
+}

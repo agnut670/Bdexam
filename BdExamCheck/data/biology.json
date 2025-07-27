@@ -1,0 +1,127 @@
+{
+  "subject": "biology",
+  "title": "Biology",
+  "description": "Botany, Zoology & Human Biology",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the basic unit of life?",
+      "options": [
+        "Tissue",
+        "Organ",
+        "Cell",
+        "Organism"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The cell is the basic structural and functional unit of all living organisms."
+    },
+    {
+      "id": 2,
+      "question": "Which process do plants use to make their own food?",
+      "options": [
+        "Respiration",
+        "Photosynthesis",
+        "Digestion",
+        "Excretion"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Photosynthesis is the process by which plants convert light energy into chemical energy (glucose)."
+    },
+    {
+      "id": 3,
+      "question": "How many chambers does a human heart have?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The human heart has four chambers: two atria and two ventricles."
+    },
+    {
+      "id": 4,
+      "question": "What is the largest organ in the human body?",
+      "options": [
+        "Brain",
+        "Liver",
+        "Lungs",
+        "Skin"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The skin is the largest organ in the human body, covering the entire external surface."
+    },
+    {
+      "id": 5,
+      "question": "Which blood type is known as the universal donor?",
+      "options": [
+        "A",
+        "B",
+        "AB",
+        "O"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Type O blood is the universal donor because it lacks A and B antigens."
+    },
+    {
+      "id": 6,
+      "question": "What is the powerhouse of the cell?",
+      "options": [
+        "Nucleus",
+        "Mitochondria",
+        "Ribosome",
+        "Chloroplast"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Mitochondria are called the powerhouse of the cell because they produce ATP energy."
+    },
+    {
+      "id": 7,
+      "question": "Which system in the human body is responsible for transporting oxygen?",
+      "options": [
+        "Digestive system",
+        "Nervous system",
+        "Circulatory system",
+        "Respiratory system"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The circulatory system transports oxygen through blood circulation around the body."
+    },
+    {
+      "id": 8,
+      "question": "What is the study of heredity called?",
+      "options": [
+        "Ecology",
+        "Genetics",
+        "Anatomy",
+        "Physiology"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Genetics is the branch of biology that studies heredity and variation in organisms."
+    },
+    {
+      "id": 9,
+      "question": "Which part of the plant conducts photosynthesis?",
+      "options": [
+        "Root",
+        "Stem",
+        "Leaf",
+        "Flower"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Leaves contain chloroplasts with chlorophyll, making them the primary site of photosynthesis."
+    },
+    {
+      "id": 10,
+      "question": "What is the normal human body temperature?",
+      "options": [
+        "36°C",
+        "37°C",
+        "38°C",
+        "39°C"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Normal human body temperature is approximately 37°C (98.6°F)."
+    }
+  ]
+}

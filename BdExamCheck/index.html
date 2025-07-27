@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bangladesh MCQ Checker - Educational Quiz Platform</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <h1 class="logo">
+                <i class="fas fa-graduation-cap"></i>
+                Bangladesh MCQ Checker
+            </h1>
+            <p class="tagline">Master Your Knowledge with Interactive Quizzes</p>
+        </div>
+    </header>
+
+    <main class="main-content">
+        <div class="container">
+            <section class="intro-section">
+                <h2>Choose Your Subject</h2>
+                <p>Select any subject below to start your MCQ practice session. Each quiz contains carefully curated questions to test your knowledge.</p>
+            </section>
+
+            <section class="subjects-grid">
+                <div class="subject-card" data-subject="bangla">
+                    <div class="card-icon bangla-color">
+                        <i class="fas fa-book"></i>
+                    </div>
+                    <h3>বাংলা (Bangla)</h3>
+                    <p>Literature, Grammar & Composition</p>
+                    <a href="subjects/bangla.html" class="btn btn-bangla">
+                        Start Quiz <i class="fas fa-arrow-right"></i>
+                    </a>
+                </div>
+
+                <div class="subject-card" data-subject="english">
+                    <div class="card-icon english-color">
+                        <i class="fas fa-language"></i>
+                    </div>
+                    <h3>English</h3>
+                    <p>Grammar, Literature & Comprehension</p>
+                    <a href="subjects/english.html" class="btn btn-english">
+                        Start Quiz <i class="fas fa-arrow-right"></i>
+                    </a>
+                </div>
+
+                <div class="subject-card" data-subject="mathematics">
+                    <div class="card-icon mathematics-color">
+                        <i class="fas fa-calculator"></i>
+                    </div>
+                    <h3>Mathematics</h3>
+                    <p>Algebra, Geometry & Calculus</p>
+                    <a href="subjects/mathematics.html" class="btn btn-mathematics">
+                        Start Quiz <i class="fas fa-arrow-right"></i>
+                    </a>
+                </div>
+
+                <div class="subject-card" data-subject="physics">
+                    <div class="card-icon physics-color">
+                        <i class="fas fa-atom"></i>
+                    </div>
+                    <h3>Physics</h3>
+                    <p>Mechanics, Thermodynamics & Waves</p>
+                    <a href="subjects/physics.html" class="btn btn-physics">
+                        Start Quiz <i class="fas fa-arrow-right"></i>
+                    </a>
+                </div>
+
+                <div class="subject-card" data-subject="chemistry">
+                    <div class="card-icon chemistry-color">
+                        <i class="fas fa-flask"></i>
+                    </div>
+                    <h3>Chemistry</h3>
+                    <p>Organic, Inorganic & Physical</p>
+                    <a href="subjects/chemistry.html" class="btn btn-chemistry">
+                        Start Quiz <i class="fas fa-arrow-right"></i>
+                    </a>
+                </div>
+
+                <div class="subject-card" data-subject="biology">
+                    <div class="card-icon biology-color">
+                        <i class="fas fa-dna"></i>
+                    </div>
+                    <h3>Biology</h3>
+                    <p>Botany, Zoology & Human Biology</p>
+                    <a href="subjects/biology.html" class="btn btn-biology">
+                        Start Quiz <i class="fas fa-arrow-right"></i>
+                    </a>
+                </div>
+
+                <div class="subject-card" data-subject="history">
+                    <div class="card-icon history-color">
+                        <i class="fas fa-landmark"></i>
+                    </div>
+                    <h3>History</h3>
+                    <p>Ancient, Medieval & Modern History</p>
+                    <a href="subjects/history.html" class="btn btn-history">
+                        Start Quiz <i class="fas fa-arrow-right"></i>
+                    </a>
+                </div>
+
+                <div class="subject-card" data-subject="geography">
+                    <div class="card-icon geography-color">
+                        <i class="fas fa-globe"></i>
+                    </div>
+                    <h3>Geography</h3>
+                    <p>Physical & Human Geography</p>
+                    <a href="subjects/geography.html" class="btn btn-geography">
+                        Start Quiz <i class="fas fa-arrow-right"></i>
+                    </a>
+                </div>
+
+                <div class="subject-card" data-subject="civics">
+                    <div class="card-icon civics-color">
+                        <i class="fas fa-balance-scale"></i>
+                    </div>
+                    <h3>Civics</h3>
+                    <p>Government, Law & Constitution</p>
+                    <a href="subjects/civics.html" class="btn btn-civics">
+                        Start Quiz <i class="fas fa-arrow-right"></i>
+                    </a>
+                </div>
+
+                <div class="subject-card" data-subject="economics">
+                    <div class="card-icon economics-color">
+                        <i class="fas fa-chart-line"></i>
+                    </div>
+                    <h3>Economics</h3>
+                    <p>Micro & Macro Economics</p>
+                    <a href="subjects/economics.html" class="btn btn-economics">
+                        Start Quiz <i class="fas fa-arrow-right"></i>
+                    </a>
+                </div>
+
+                <div class="subject-card" data-subject="ict">
+                    <div class="card-icon ict-color">
+                        <i class="fas fa-laptop-code"></i>
+                    </div>
+                    <h3>ICT</h3>
+                    <p>Information & Communication Technology</p>
+                    <a href="subjects/ict.html" class="btn btn-ict">
+                        Start Quiz <i class="fas fa-arrow-right"></i>
+                    </a>
+                </div>
+
+                <div class="subject-card" data-subject="islamic-studies">
+                    <div class="card-icon islamic-color">
+                        <i class="fas fa-mosque"></i>
+                    </div>
+                    <h3>Islamic Studies</h3>
+                    <p>Quran, Hadith & Islamic History</p>
+                    <a href="subjects/islamic-studies.html" class="btn btn-islamic">
+                        Start Quiz <i class="fas fa-arrow-right"></i>
+                    </a>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2025 Bangladesh MCQ Checker. Educational platform for academic excellence.</p>
+        </div>
+    </footer>
+
+    <script src="js/navigation.js"></script>
+</body>
+</html>

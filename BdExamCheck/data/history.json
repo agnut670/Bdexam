@@ -1,0 +1,127 @@
+{
+  "subject": "history",
+  "title": "History",
+  "description": "Ancient, Medieval & Modern History",
+  "questions": [
+    {
+      "id": 1,
+      "question": "In which year did Bangladesh gain independence?",
+      "options": [
+        "1970",
+        "1971",
+        "1972",
+        "1973"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bangladesh gained independence on December 16, 1971, after the Liberation War."
+    },
+    {
+      "id": 2,
+      "question": "Who was the first President of Bangladesh?",
+      "options": [
+        "Sheikh Mujibur Rahman",
+        "Ziaur Rahman",
+        "Abu Sayeed Chowdhury",
+        "Hussain Muhammad Ershad"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Abu Sayeed Chowdhury was the first President of Bangladesh from 1971 to 1973."
+    },
+    {
+      "id": 3,
+      "question": "The ancient civilization of Mesopotamia was located between which two rivers?",
+      "options": [
+        "Nile and Congo",
+        "Tigris and Euphrates",
+        "Ganges and Brahmaputra",
+        "Indus and Ganges"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Mesopotamia, known as the cradle of civilization, was located between the Tigris and Euphrates rivers."
+    },
+    {
+      "id": 4,
+      "question": "Who was known as the 'Father of the Nation' of Bangladesh?",
+      "options": [
+        "A.K. Fazlul Huq",
+        "Hussain Shaheed Suhrawardy",
+        "Sheikh Mujibur Rahman",
+        "Khan Abdul Ghaffar Khan"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Sheikh Mujibur Rahman is known as the 'Father of the Nation' (Jatir Pita) of Bangladesh."
+    },
+    {
+      "id": 5,
+      "question": "The Mughal Empire was founded by:",
+      "options": [
+        "Akbar",
+        "Babur",
+        "Humayun",
+        "Shah Jahan"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Babur founded the Mughal Empire in India in 1526 after the Battle of Panipat."
+    },
+    {
+      "id": 6,
+      "question": "World War II ended in which year?",
+      "options": [
+        "1944",
+        "1945",
+        "1946",
+        "1947"
+      ],
+      "correctAnswer": 1,
+      "explanation": "World War II ended in 1945 with the surrender of Japan in August."
+    },
+    {
+      "id": 7,
+      "question": "The Language Movement in Bangladesh took place in which year?",
+      "options": [
+        "1951",
+        "1952",
+        "1953",
+        "1954"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Language Movement occurred in 1952, particularly on February 21, now observed as International Mother Language Day."
+    },
+    {
+      "id": 8,
+      "question": "Who built the Taj Mahal?",
+      "options": [
+        "Akbar",
+        "Jahangir",
+        "Shah Jahan",
+        "Aurangzeb"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Shah Jahan built the Taj Mahal in memory of his wife Mumtaz Mahal."
+    },
+    {
+      "id": 9,
+      "question": "The Battle of Plassey was fought in:",
+      "options": [
+        "1756",
+        "1757",
+        "1758",
+        "1759"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Battle of Plassey was fought on June 23, 1757, marking the beginning of British rule in India."
+    },
+    {
+      "id": 10,
+      "question": "Which ancient wonder of the world was located in Alexandria?",
+      "options": [
+        "Hanging Gardens",
+        "Colossus of Rhodes",
+        "Lighthouse of Alexandria",
+        "Statue of Zeus"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Lighthouse of Alexandria (Pharos of Alexandria) was one of the Seven Wonders of the Ancient World."
+    }
+  ]
+}
